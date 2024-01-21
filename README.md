@@ -1,4 +1,4 @@
-### Hi there I'm Swastik Bendugade👋
+### Hi there 👋 I'm Swastik Bendugade
 
 <!--
 **SB321/SB321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a passionate and results-driven Software Engineer with nearly 2 years of hands-on experience, dedicated to pushing the boundaries of technology to create meaningful solutions. My journey in the tech world has been a dynamic blend of Oracle APEX expertise and hands-on experience in implementing DevOps practices for crafting scalable and efficient systems on the AWS cloud.
+I'm a passionate and results-driven Software Engineer with nearly 2 years of hands-on experience. I specialize in developing innovative solutions using Oracle APEX and DevOps practices for building scalable and efficient systems on the AWS cloud. My focus is on crafting impactful solutions and architecting powerful, scalable systems. I don't just write code; I specialize in implementing efficient DevOps practices, optimizing cloud infrastructure, and consistently delivering game-changing results.
