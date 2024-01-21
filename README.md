@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-**About Me**
 I'm a passionate and results-driven software engineer with nearly 2 years of hands-on experience. I specialize in developing innovative solutions using Oracle APEX and DevOps practices for building scalable and efficient systems on the AWS cloud.
