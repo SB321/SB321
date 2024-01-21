@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a passionate and results-driven software engineer with nearly 2 years of hands-on experience. I specialize in developing innovative solutions using Oracle APEX and DevOps practices for building scalable and efficient systems on the AWS cloud.
+I'm a passionate and results-driven Software Engineer with nearly 2 years of hands-on experience, dedicated to pushing the boundaries of technology to create meaningful solutions. My journey in the tech world has been a dynamic blend of Oracle APEX expertise and hands-on experience in implementing DevOps practices for crafting scalable and efficient systems on the AWS cloud.
